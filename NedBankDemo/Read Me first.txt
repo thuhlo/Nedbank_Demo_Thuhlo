@@ -1,0 +1,8 @@
+Copy the project into your machine
+Make sure the folowing files are in the root of the project folder:
+	computerSpecs.txt
+	testData.txt
+	
+Open the IDE and load the project
+Open Terminal of IDE
+Then type "mvn clean verify" without the braces
